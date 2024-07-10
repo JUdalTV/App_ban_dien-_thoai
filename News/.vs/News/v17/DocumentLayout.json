@@ -1,0 +1,904 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\DADNT\\News\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dbcontexts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dbcontexts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\comon\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\comon\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\ipayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\ipayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\comon\\pageresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\comon\\pageresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\paycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\paycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\order\\addproducttoorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\order\\addproducttoorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\category\\productcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\category\\productcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\cart\\addproducttocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\cart\\addproducttocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\news.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:news.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\pay\\upatepaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\pay\\upatepaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\pay\\paydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\pay\\paydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\payservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\payservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\pay\\createpaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\pay\\createpaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:57:04.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\CartItemService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartItemService.cs",
+              "RelativeToolTip": "Service\\Implements\\CartItemService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:48:12.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\IOrderItemService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderItemService.cs",
+              "RelativeToolTip": "Service\\Abstract\\IOrderItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:56:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\OrderItemService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\OrderItemService.cs",
+              "RelativeToolTip": "Service\\Implements\\OrderItemService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:41:22.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Product\\ProductDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Product\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\Product\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:08:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Product\\CreateProductDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "Dto\\Product\\CreateProductDto.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:08:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Entity\\Product.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Product.cs",
+              "RelativeToolTip": "Entity\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:46:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\ProductService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\ProductService.cs",
+              "RelativeToolTip": "Service\\Implements\\ProductService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:40:06.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240709041207_Initdcn.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:12:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project\\DADNT\\News\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T11:29:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\DbContexts\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DbContexts\\ApiResponse.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\DbContexts\\ApiResponse.cs",
+              "RelativeToolTip": "DbContexts\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:00:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartItemController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "Controllers\\CartItemController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:57:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\BaseService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\BaseService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\BaseService.cs",
+              "RelativeToolTip": "Service\\Implements\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:13:20.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:47:58.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\IProductServices.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IProductServices.cs",
+              "RelativeToolTip": "Service\\Abstract\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:55:12.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:58:37.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\ICartItemService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICartItemService.cs",
+              "RelativeToolTip": "Service\\Abstract\\ICartItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:56:02.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICartService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\ICartService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICartService.cs",
+              "RelativeToolTip": "Service\\Abstract\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:55:50.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\User\\UserDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\User\\UserDto.cs",
+              "RelativeToolTip": "Dto\\User\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:12:31.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:11:06.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPayService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IPayService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\IPayService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IPayService.cs",
+              "RelativeToolTip": "Service\\Abstract\\IPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:57:01.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Comon\\FilterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Comon\\FilterDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Comon\\FilterDto.cs",
+              "RelativeToolTip": "Dto\\Comon\\FilterDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:05:44.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Project\\DADNT\\News\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T17:29:15.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\IOrderService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderService.cs",
+              "RelativeToolTip": "Service\\Abstract\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:56:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:58:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entity\\OrderItem.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\OrderItem.cs",
+              "RelativeToolTip": "Entity\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:47:01.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Entity\\Order.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Order.cs",
+              "RelativeToolTip": "Entity\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:58:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:57:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\UserService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\UserService.cs",
+              "RelativeToolTip": "Service\\Implements\\UserService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:39:52.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\IUserService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Service\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:54:49.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\User.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\User.cs",
+              "RelativeToolTip": "Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:46:34.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PageResultDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Comon\\PageResultDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Comon\\PageResultDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Comon\\PageResultDto.cs",
+              "RelativeToolTip": "Dto\\Comon\\PageResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:05:53.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PayController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\PayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PayController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\PayController.cs",
+              "RelativeToolTip": "Controllers\\PayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:58:11.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\OrderService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\OrderService.cs",
+              "RelativeToolTip": "Service\\Implements\\OrderService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:40:36.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:41:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\CartService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartService.cs",
+              "RelativeToolTip": "Service\\Implements\\CartService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:48:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddProductToOrderDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Order\\AddProductToOrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Order\\AddProductToOrderDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Order\\AddProductToOrderDto.cs",
+              "RelativeToolTip": "Dto\\Order\\AddProductToOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:44:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductCategoryDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Category\\ProductCategoryDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Category\\ProductCategoryDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Category\\ProductCategoryDto.cs",
+              "RelativeToolTip": "Dto\\Category\\ProductCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:50:05.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\CategoryService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Service\\Implements\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:48:23.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\CartItem.cs",
+              "RelativeDocumentMoniker": "Entity\\CartItem.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\CartItem.cs",
+              "RelativeToolTip": "Entity\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:46:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddProductToCartDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Cart\\AddProductToCartDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Cart\\AddProductToCartDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Cart\\AddProductToCartDto.cs",
+              "RelativeToolTip": "Dto\\Cart\\AddProductToCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:43:48.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Cart.cs",
+              "RelativeDocumentMoniker": "Entity\\Cart.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Cart.cs",
+              "RelativeToolTip": "Entity\\Cart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:52:09.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICategory.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\ICategory.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICategory.cs",
+              "RelativeToolTip": "Service\\Abstract\\ICategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:55:31.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\User\\CreateUserDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "Dto\\User\\CreateUserDto.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:07:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "News.csproj",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\News.csproj",
+              "RelativeDocumentMoniker": "News.csproj",
+              "ToolTip": "D:\\Project\\DADNT\\News\\News.csproj",
+              "RelativeToolTip": "News.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T16:18:35.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:02:31.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserFriendlyException.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Exceptions\\UserFriendlyException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\UserFriendlyException.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Exceptions\\UserFriendlyException.cs",
+              "RelativeToolTip": "Exceptions\\UserFriendlyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:52:08.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\User\\UpdateUserDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "Dto\\User\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:21:32.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Pay.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Pay.cs",
+              "RelativeDocumentMoniker": "Entity\\Pay.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Pay.cs",
+              "RelativeToolTip": "Entity\\Pay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:54:36.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "Entity\\Category.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Category.cs",
+              "RelativeToolTip": "Entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:48:19.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Product\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Product\\UpdateProductDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Product\\UpdateProductDto.cs",
+              "RelativeToolTip": "Dto\\Product\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:22:11.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpatePayDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Pay\\UpatePayDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Pay\\UpatePayDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Pay\\UpatePayDto.cs",
+              "RelativeToolTip": "Dto\\Pay\\UpatePayDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:16:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PayDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Pay\\PayDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Pay\\PayDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Pay\\PayDto.cs",
+              "RelativeToolTip": "Dto\\Pay\\PayDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:46:08.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PayServiceDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\PayServiceDto.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\PayServiceDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\PayServiceDto.cs",
+              "RelativeToolTip": "Service\\Implements\\PayServiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:40:17.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreatePayDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Pay\\CreatePayDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Pay\\CreatePayDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Pay\\CreatePayDto.cs",
+              "RelativeToolTip": "Dto\\Pay\\CreatePayDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:15:14.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

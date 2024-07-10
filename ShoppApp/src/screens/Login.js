@@ -2,6 +2,7 @@ import React, { useContext, useState } from 'react';
 import {Button, Text, TextInput, TouchableOpacity, View, StyleSheet,SafeAreaView, Image} from 'react-native';
 import Navigation from '../components/Navigation';
 import Signup from './Signup';
+import Home from './Home';
 import { AuthContext } from '../context/AuthContext';
 
 
@@ -23,11 +24,11 @@ const Login = ({navigation}) =>{
                     <TextInput style={styles.input} value={username} placeholder='Vui lòng nhập tên đăng nhập' onChangeText={text => setUserName(text)} />
                     <Text>Mật khẩu</Text>
                     <TextInput style={styles.input} value={password} placeholder='Vui lòng nhập mật khẩu' onChangeText={text => setPassword(text)} secureTextEntry/>
-                    <Button title='Đăng nhập' />
+                    <TouchableOpacity style={styles.log} onPress={()=> navigation.navigate('Home')}><Text style={styles.dn}>Đăng Nhập</Text></TouchableOpacity>
                     <View style={{flexDirection: 'row', justifyContent: "flex-end", marginVertical: 22}}>
                         <Text>Chưa có tải khoản? </Text>
                         <TouchableOpacity onPress={()=> navigation.navigate('Signup')}>
-                            <Text style={styles.link}>Đăng kí</Text>
+                            <Text style={styles.link}>Đăng Kí</Text>
                         </TouchableOpacity>
                     </View>
                 </View>
@@ -70,6 +71,21 @@ const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 5,
         paddingHorizontal: 14,
+    },
+    log:{
+        backgroundColor:'#228B22',
+        marginTop: 10,
+        height: 50,
+        borderRadius: 10,
+        justifyContent: 'center',
+        alignItems: 'center',
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 2 },
+
+    },
+    dn: {
+        color: 'white',
+        fontSize: 18,
     },
     link: {
         color: 'blue',
