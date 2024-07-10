@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Project\\DADNT\\News\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dbcontexts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dbcontexts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,22 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dbcontexts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dbcontexts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -166,10 +174,6 @@
       "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\cart\\addproducttocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\service\\abstract\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:service\\abstract\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -202,10 +206,6 @@
       "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|d:\\project\\dadnt\\news\\dto\\pay\\upatepaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00E2E834-6B66-46B8-A946-E123C6302AE1}|News.csproj|solutionrelative:dto\\pay\\upatepaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -233,44 +233,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB0AAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:57:04.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CartItemService.cs",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartItemService.cs",
-              "RelativeDocumentMoniker": "Service\\Implements\\CartItemService.cs",
-              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartItemService.cs",
-              "RelativeToolTip": "Service\\Implements\\CartItemService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:48:12.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IOrderItemService.cs",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderItemService.cs",
-              "RelativeDocumentMoniker": "Service\\Abstract\\IOrderItemService.cs",
-              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderItemService.cs",
-              "RelativeToolTip": "Service\\Abstract\\IOrderItemService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T06:56:47.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "OrderItemService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\OrderItemService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\OrderItemService.cs",
@@ -282,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Product\\ProductDto.cs",
               "RelativeDocumentMoniker": "Dto\\Product\\ProductDto.cs",
@@ -301,14 +264,14 @@
               "RelativeDocumentMoniker": "Dto\\Product\\CreateProductDto.cs",
               "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Product\\CreateProductDto.cs",
               "RelativeToolTip": "Dto\\Product\\CreateProductDto.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAkAAAAdAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T13:08:55.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "Entity\\Product.cs",
@@ -316,47 +279,63 @@
               "RelativeToolTip": "Entity\\Product.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA1wA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:46:40.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T16:46:40.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\ProductService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\ProductService.cs",
               "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\ProductService.cs",
               "RelativeToolTip": "Service\\Implements\\ProductService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAyAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T14:40:06.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240709041207_Initdcn.cs",
-              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs",
-              "ToolTip": "C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Cart.cs",
+              "RelativeDocumentMoniker": "Entity\\Cart.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Cart.cs",
+              "RelativeToolTip": "Entity\\Cart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:12:07.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Project\\DADNT\\News\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T11:29:27.179Z",
+              "WhenOpened": "2024-07-06T16:52:09.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Product\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Product\\UpdateProductDto.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Product\\UpdateProductDto.cs",
+              "RelativeToolTip": "Dto\\Product\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:22:11.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:47:58.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\DbContexts\\ApiResponse.cs",
               "RelativeDocumentMoniker": "DbContexts\\ApiResponse.cs",
@@ -369,7 +348,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Abstract\\IOrderItemService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderItemService.cs",
+              "RelativeToolTip": "Service\\Abstract\\IOrderItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:56:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Implements\\CartItemService.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartItemService.cs",
+              "RelativeToolTip": "Service\\Implements\\CartItemService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:48:12.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Project\\DADNT\\News\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:57:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240709041207_Initdcn.cs",
+              "DocumentMoniker": "C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs",
+              "ToolTip": "C:\\Users\\dung0\\source\\repos\\News\\Migrations\\20240709041207_Initdcn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:12:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\DADNT\\News\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project\\DADNT\\News\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T11:29:27.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CartItemController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\CartItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartItemController.cs",
@@ -381,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BaseService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\BaseService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\BaseService.cs",
@@ -393,20 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Project\\DADNT\\News\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T04:47:58.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IProductServices.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IProductServices.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\IProductServices.cs",
@@ -418,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "OrderItemController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\OrderItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
@@ -430,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ICartItemService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICartItemService.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\ICartItemService.cs",
@@ -442,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ICartService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICartService.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\ICartService.cs",
@@ -454,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\User\\UserDto.cs",
               "RelativeDocumentMoniker": "Dto\\User\\UserDto.cs",
@@ -466,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -478,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "IPayService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IPayService.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\IPayService.cs",
@@ -490,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "FilterDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Comon\\FilterDto.cs",
               "RelativeDocumentMoniker": "Dto\\Comon\\FilterDto.cs",
@@ -502,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -514,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IOrderService.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\IOrderService.cs",
@@ -526,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -538,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entity\\OrderItem.cs",
@@ -550,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Order.cs",
               "RelativeDocumentMoniker": "Entity\\Order.cs",
@@ -562,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
@@ -574,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\UserService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\UserService.cs",
@@ -586,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\IUserService.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\IUserService.cs",
@@ -598,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\User.cs",
               "RelativeDocumentMoniker": "Entity\\User.cs",
@@ -610,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "PageResultDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Comon\\PageResultDto.cs",
               "RelativeDocumentMoniker": "Dto\\Comon\\PageResultDto.cs",
@@ -622,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "PayController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\PayController.cs",
               "RelativeDocumentMoniker": "Controllers\\PayController.cs",
@@ -634,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\OrderService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\OrderService.cs",
@@ -646,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -658,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "CartService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CartService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\CartService.cs",
@@ -670,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "AddProductToOrderDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Order\\AddProductToOrderDto.cs",
               "RelativeDocumentMoniker": "Dto\\Order\\AddProductToOrderDto.cs",
@@ -682,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ProductCategoryDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Category\\ProductCategoryDto.cs",
               "RelativeDocumentMoniker": "Dto\\Category\\ProductCategoryDto.cs",
@@ -694,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Implements\\CategoryService.cs",
               "RelativeDocumentMoniker": "Service\\Implements\\CategoryService.cs",
@@ -706,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "CartItem.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\CartItem.cs",
               "RelativeDocumentMoniker": "Entity\\CartItem.cs",
@@ -718,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "AddProductToCartDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Cart\\AddProductToCartDto.cs",
               "RelativeDocumentMoniker": "Dto\\Cart\\AddProductToCartDto.cs",
@@ -730,19 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Cart.cs",
-              "RelativeDocumentMoniker": "Entity\\Cart.cs",
-              "ToolTip": "D:\\Project\\DADNT\\News\\Entity\\Cart.cs",
-              "RelativeToolTip": "Entity\\Cart.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvxMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:52:09.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "ICategory.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Service\\Abstract\\ICategory.cs",
               "RelativeDocumentMoniker": "Service\\Abstract\\ICategory.cs",
@@ -754,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\User\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "Dto\\User\\CreateUserDto.cs",
@@ -766,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "News.csproj",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\News.csproj",
               "RelativeDocumentMoniker": "News.csproj",
@@ -778,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -790,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "UserFriendlyException.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Exceptions\\UserFriendlyException.cs",
               "RelativeDocumentMoniker": "Exceptions\\UserFriendlyException.cs",
@@ -802,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\User\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "Dto\\User\\UpdateUserDto.cs",
@@ -814,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Pay.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Pay.cs",
               "RelativeDocumentMoniker": "Entity\\Pay.cs",
@@ -826,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Project\\DADNT\\News\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "Entity\\Category.cs",
@@ -835,18 +846,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T06:48:19.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "D:\\Project\\DADNT\\News\\Dto\\Product\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Dto\\Product\\UpdateProductDto.cs",
-              "ToolTip": "D:\\Project\\DADNT\\News\\Dto\\Product\\UpdateProductDto.cs",
-              "RelativeToolTip": "Dto\\Product\\UpdateProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:22:11.302Z"
             },
             {
               "$type": "Document",
